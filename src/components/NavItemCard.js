@@ -45,7 +45,7 @@ class NavItemCard extends PureComponent {
         <Grid item xs={6} sm={4} md={3} key={index}>
           <Link
             color="textPrimary"
-            href={`${item.website}?utm_resource=eth123.org`}
+            href={`${item.website}?utm_resource=agile123.net`}
             target="_blank"
             underline='none'
             onClick={() => {

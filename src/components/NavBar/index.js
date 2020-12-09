@@ -167,7 +167,7 @@ class NavBar extends PureComponent {
                 alignItems="center"
                 justifyContent="center"
                 p={2}>
-                <img src={LogoImg} alt="eth123" height={17} />
+                <img src={LogoImg} alt="agile123" height={17} />
               </Box>
               <Divider />
               <Box

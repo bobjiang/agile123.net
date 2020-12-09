@@ -19,7 +19,6 @@ import NavHotItemCard from './components/NavHotItemCard';
 import NavItemCard from './components/NavItemCard';
 import Logo from './components/Logo';
 
-import { jsonHost } from './services/config';
 import { get } from './services/fetch';
 
 import './App.css';
@@ -35,13 +34,13 @@ const theme = createMuiTheme({
 
 const translation = {
   zh: {
-    subTitle: '以太坊生态资源导航',
-    more: '一起发现更多新产品',
+    subTitle: '敏捷学习资源大全',
+    more: '一起发现更多资源',
     submit: '提　交',
   },
   en: {
-    subTitle: 'A Portal to Ethereum Ecosystem',
-    more: 'Discover more new products',
+    subTitle: 'A Portal for awesome Agile learning resources',
+    more: 'Discover more resources',
     submit: 'Submit',
   }
 }
@@ -63,8 +62,8 @@ class App extends React.Component {
   }
 
   fetchTagList = async (navList) => {
-    // const res = await get('/tagList.json');
-    const res = await get(`${jsonHost}/main/tagList.json`);
+    const res = await get('/tagList.json');
+    //const res = await get(`${jsonHost}/main/tagList.json`);
     if (res && (res || []).length) {
       this.setState({
         tagList: res,
@@ -73,8 +72,8 @@ class App extends React.Component {
   }
 
   fetchNavList = async () => {
-    // const res = await get('/resource.json');
-    const res = await get(`${jsonHost}/main/resource.json`);
+    const res = await get('/resource.json');
+    //const res = await get(`${jsonHost}/main/resource.json`);
     if (res && (res || []).length) {
       this.setState({
         navList: res,
@@ -136,7 +135,7 @@ class App extends React.Component {
               className="languageBtn"
               style={{ textTransform: 'none' }}>
               <Box fontWeight="400" className="languageBtn_text">
-                {language === "zh" ? 'English' : '中文'}
+                {language === "zh" ? '中文' : 'English'}
               </Box>
             </Button>
           </Box>
@@ -201,7 +200,7 @@ class App extends React.Component {
                   color="primary"
                   style={{ textTransform: 'none' }}
                   onClick={() => {
-                    window.open('https://github.com/SparkPoolOfficial/eth123.org/issues');
+                    window.open('https://github.com/bobjiang/agile123.net/issues');
                   }}
                   >
                   {t('submit')}
@@ -214,8 +213,8 @@ class App extends React.Component {
                 py={{ xs: 1, sm: 2 }}>
                 <Box>Sponsored By&nbsp;</Box>
                 <Box color="#ff7828">
-                  <Link href="https://www.sparkpool.com" underline="none">
-                    SparkPool
+                  <Link href="https://bobjiang.com/" underline="none">
+                    Bob Jiang
                   </Link>
                 </Box>
               </Box>
