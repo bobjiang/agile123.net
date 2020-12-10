@@ -10,7 +10,7 @@ import { Skeleton } from '@material-ui/lab';
 import classnames from 'classnames';
 import throttle from 'lodash.throttle';
 
-import LogoImg from '../../assets/logo_title_new.svg';
+import LogoImg from '../../assets/agile123-logo.svg';
 import styles from './styles.module.css';
 import { getSkeletonList } from '../../services';
 

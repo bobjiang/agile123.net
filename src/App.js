@@ -23,6 +23,8 @@ import { get } from './services/fetch';
 
 import './App.css';
 
+import LogoImg from './assets/agile123-logo.svg';
+
 const theme = createMuiTheme({
   palette: {
     primary: {
@@ -145,7 +147,7 @@ class App extends React.Component {
             alignItems="center"
             mb={{ xs: 2, sm: 3, md: 4 }}>
             <Box mb={{ xs: .5, sm: 1 }}>
-              <Logo />
+              <img src ={LogoImg} style={{height: "100px"}}/>
             </Box>
             <Box>
               <Typography color="textSecondary">
