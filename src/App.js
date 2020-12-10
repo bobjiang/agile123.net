@@ -17,7 +17,6 @@ import { Language, Menu } from '@material-ui/icons';
 import NavBar from './components/NavBar';
 import NavHotItemCard from './components/NavHotItemCard';
 import NavItemCard from './components/NavItemCard';
-import Logo from './components/Logo';
 
 import { get } from './services/fetch';
 
@@ -147,7 +146,7 @@ class App extends React.Component {
             alignItems="center"
             mb={{ xs: 2, sm: 3, md: 4 }}>
             <Box mb={{ xs: .5, sm: 1 }}>
-              <img src ={LogoImg} style={{height: "100px"}}/>
+              <img src ={LogoImg} style={{height: "100px"}} alt="" />
             </Box>
             <Box>
               <Typography color="textSecondary">

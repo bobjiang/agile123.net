@@ -8,7 +8,7 @@
       "tag":"热门推荐",
       "tag_en":"Hot",
       "logo":"",
-      "image":"https://www.bobjiang.com/images/ScrumAlliance-logo.webp"
+      "image":"/images/ScrumAlliance-logo.webp"
    },
    {
       "name":"敏捷联盟",
@@ -19,7 +19,7 @@
       "tag":"热门推荐",
       "tag_en":"Hot",
       "logo":"",
-      "image":"https://www.bobjiang.com/images/agilealliance.webp"
+      "image":"/images/agilealliance.webp"
    },
    {
       "name":"敏捷宣言",
@@ -41,7 +41,7 @@
       "tag":"热门推荐",
       "tag_en":"Hot",
       "logo":"",
-      "image":"https://www.bobjiang.com/images/scrum-guides-logo.svg"
+      "image":"/images/scrum-guides-logo.svg"
    },
    {
       "name":"敏捷之旅",
