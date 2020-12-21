@@ -12,6 +12,10 @@
       "tag_en":"AgileFramework"
    },
    {
+      "tag":"Scrum专区",
+      "tag_en":"Scrum"
+   },
+   {
       "tag":"大规模敏捷",
       "tag_en":"ScalingAgile"
    },
@@ -34,6 +38,14 @@
    {
       "tag":"博客",
       "tag_en":"Blog"
+   },
+   {
+      "tag":"咨询公司",
+      "tag_en":"Company"
+   },
+   {
+      "tag":"敏捷图书",
+      "tag_en":"Book"
    },
    {
       "tag":"敏捷实践",
