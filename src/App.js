@@ -215,7 +215,13 @@ class App extends React.Component {
                 <Box>Sponsored By&nbsp;</Box>
                 <Box color="#ff7828">
                   <Link href="https://bobjiang.com/" underline="none">
-                    Bob Jiang
+                    Bob Jiang&nbsp;
+                  </Link>
+                </Box>
+                <Box>|&nbsp;Inspired By&nbsp;</Box>
+                <Box color="#ff7828">
+                  <Link href="https://eth123.org/" underline="none">
+                    ETH123.org
                   </Link>
                 </Box>
               </Box>
