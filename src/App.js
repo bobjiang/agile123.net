@@ -146,7 +146,7 @@ class App extends React.Component {
             alignItems="center"
             mb={{ xs: 2, sm: 3, md: 4 }}>
             <Box mb={{ xs: .5, sm: 1 }}>
-              <img src ={LogoImg} style={{height: "100px"}} alt="" />
+              <a href="https://agile123.net/"><img src ={LogoImg} style={{height: "100px"}} alt="" /></a>
             </Box>
             <Box>
               <Typography color="textSecondary">
