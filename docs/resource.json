@@ -88,6 +88,17 @@
       "image":""
    },
    {
+      "name":"中国DevOps社区",
+      "name_en":"DevOps China",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://devopschina.org/",
+      "tag":"社区",
+      "tag_en":"Community",
+      "logo":"",
+      "image":""
+   },
+   {
       "name":"敏捷大会",
       "name_en":"Agile Conference",
       "desc":"",
@@ -682,6 +693,17 @@
       "image":""
    },
    {
+      "name":"刘征",
+      "name_en":"Martin Liu",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://martinliu.cn/",
+      "tag":"博客",
+      "tag_en":"Blog",
+      "logo":"",
+      "image":""
+   },
+   {
       "name":"Odd-e",
       "name_en":"Odd-e",
       "desc":"",
@@ -751,6 +773,17 @@
       "name":"持续交付2.0",
       "name_en":"Continuous Delivery 2.0",
       "desc":"业务引领的DevOps精要",
+      "desc_en":"",
+      "website":"https://item.jd.com/12512514.html",
+      "tag":"敏捷图书",
+      "tag_en":"Book",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"DevOps实践指南",
+      "name_en":"DevOps Handbook",
+      "desc":"",
       "desc_en":"",
       "website":"https://item.jd.com/12512514.html",
       "tag":"敏捷图书",
