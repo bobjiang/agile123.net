@@ -418,6 +418,28 @@
       "image":""
    },
    {
+      "name":"开发运维",
+      "name_en":"DevOps",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://devops.com/",
+      "tag":"DevOps",
+      "tag_en":"DevOps",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"DevOpsDays",
+      "name_en":"DevOpsDays",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://devopsdays.org/",
+      "tag":"DevOps",
+      "tag_en":"DevOps",
+      "logo":"",
+      "image":""
+   },
+   {
       "name":"Comparative Agility",
       "name_en":"Comparative Agility",
       "desc":"",
