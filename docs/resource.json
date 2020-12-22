@@ -165,6 +165,17 @@
       "image":""
    },
    {
+      "name":"持续交付",
+      "name_en":"Continuous Delivery",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://continuousdelivery.com/",
+      "tag":"敏捷框架",
+      "tag_en":"AgileFramework",
+      "logo":"",
+      "image":""
+   },
+   {
       "name":"动态系统开发方法",
       "name_en":"Dynamic System Development Method",
       "desc":"",
