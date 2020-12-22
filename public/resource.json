@@ -363,6 +363,61 @@
       "image":""
    },
    {
+      "name":"Jeff Patton",
+      "name_en":"Jeff Patton",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.jpattonassociates.com/",
+      "tag":"产品设计",
+      "tag_en":"Products",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"Roman Pichler",
+      "name_en":"Roman Pichler",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.romanpichler.com/",
+      "tag":"产品设计",
+      "tag_en":"Products",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"Jobs to be done",
+      "name_en":"Jobs-to-be-Done Theory",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://jobs-to-be-done.com/",
+      "tag":"产品设计",
+      "tag_en":"Products",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"Comparative Agility",
+      "name_en":"Comparative Agility",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.comparativeagility.com/",
+      "tag":"敏捷度量",
+      "tag_en":"AgileMeasurement",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"敏捷流畅度",
+      "name_en":"Agile Fluency",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.agilefluency.org/",
+      "tag":"敏捷度量",
+      "tag_en":"AgileMeasurement",
+      "logo":"",
+      "image":""
+   },
+   {
       "name":"Mike Beedle",
       "name_en":"Mike Beedle",
       "desc":"",
@@ -517,6 +572,17 @@
       "image":""
    },
    {
+      "name":"Steve Blank",
+      "name_en":"Steve Blank",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://steveblank.com/",
+      "tag":"意见领袖",
+      "tag_en":"ThoughtLeaders",
+      "logo":"",
+      "image":""
+   },
+   {
       "name":"Jira - Atlassian",
       "name_en":"Jira - Atlassian",
       "desc":"",
@@ -621,6 +687,17 @@
       "desc":"",
       "desc_en":"",
       "website":"https://www.odd-e.cn",
+      "tag":"咨询公司",
+      "tag_en":"Company",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"Crisp",
+      "name_en":"Crisp",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://blog.crisp.se/",
       "tag":"咨询公司",
       "tag_en":"Company",
       "logo":"",

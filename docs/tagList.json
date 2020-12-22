@@ -20,8 +20,16 @@
       "tag_en":"ScalingAgile"
    },
    {
+      "tag":"产品设计",
+      "tag_en":"Products"
+   },
+   {
       "tag":"DevOps",
       "tag_en":"DevOps"
+   },
+   {
+      "tag":"敏捷度量",
+      "tag_en":"AgileMeasurement"
    },
    {
       "tag":"意见领袖",
