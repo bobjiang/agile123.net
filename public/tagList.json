@@ -32,6 +32,10 @@
       "tag_en":"AgileMeasurement"
    },
    {
+      "tag":"敏捷回顾",
+      "tag_en":"Retrospectives"
+   },
+   {
       "tag":"意见领袖",
       "tag_en":"ThoughtLeaders"
    },

@@ -121,17 +121,6 @@
       "image":""
    },
    {
-      "name":"敏捷大会",
-      "name_en":"Agile Conference",
-      "desc":"",
-      "desc_en":"",
-      "website":"https://www.agilealliance.org/events/other-events/",
-      "tag":"社区",
-      "tag_en":"Community",
-      "logo":"",
-      "image":""
-   },
-   {
       "name":"领域驱动设计大会",
       "name_en":"Domain-Driven Design Conf",
       "desc":"",
@@ -148,6 +137,17 @@
       "desc":"",
       "desc_en":"",
       "website":"https://scrumguides.org/",
+      "tag":"敏捷框架",
+      "tag_en":"AgileFramework",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"看板方法",
+      "name_en":"Kanban",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://en.wikipedia.org/wiki/Kanban",
       "tag":"敏捷框架",
       "tag_en":"AgileFramework",
       "logo":"",
@@ -264,17 +264,6 @@
       "image":""
    },
    {
-      "name":"看板方法",
-      "name_en":"Kanban",
-      "desc":"",
-      "desc_en":"",
-      "website":"https://en.wikipedia.org/wiki/Kanban",
-      "tag":"敏捷框架",
-      "tag_en":"AgileFramework",
-      "logo":"",
-      "image":""
-   },
-   {
       "name":"快速应用开发",
       "name_en":"Rapid application development (RAD)",
       "desc":"",
@@ -282,39 +271,6 @@
       "website":"https://en.wikipedia.org/wiki/Rapid_application_development",
       "tag":"敏捷框架",
       "tag_en":"AgileFramework",
-      "logo":"",
-      "image":""
-   },
-   {
-      "name":"Scrum联盟",
-      "name_en":"Scrum Alliance",
-      "desc":"",
-      "desc_en":"",
-      "website":"https://scrumalliance.org/",
-      "tag":"Scrum专区",
-      "tag_en":"Scrum",
-      "logo":"",
-      "image":"/images/ScrumAlliance-logo.webp"
-   },
-   {
-      "name":"Scrum.org",
-      "name_en":"Scrum.org",
-      "desc":"",
-      "desc_en":"",
-      "website":"https://scrum.org",
-      "tag":"Scrum专区",
-      "tag_en":"Scrum",
-      "logo":"",
-      "image":""
-   },
-   {
-      "name":"Scrum Inc",
-      "name_en":"Scrum Inc",
-      "desc":"",
-      "desc_en":"",
-      "website":"https://www.scruminc.com/",
-      "tag":"Scrum专区",
-      "tag_en":"Scrum",
       "logo":"",
       "image":""
    },
@@ -381,6 +337,39 @@
       "website":"https://disciplinedagileconsortium.org/",
       "tag":"大规模敏捷",
       "tag_en":"ScalingAgile",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"Scrum联盟",
+      "name_en":"Scrum Alliance",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://scrumalliance.org/",
+      "tag":"Scrum专区",
+      "tag_en":"Scrum",
+      "logo":"",
+      "image":"/images/ScrumAlliance-logo.webp"
+   },
+   {
+      "name":"Scrum.org",
+      "name_en":"Scrum.org",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://scrum.org",
+      "tag":"Scrum专区",
+      "tag_en":"Scrum",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"Scrum Inc",
+      "name_en":"Scrum Inc",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.scruminc.com/",
+      "tag":"Scrum专区",
+      "tag_en":"Scrum",
       "logo":"",
       "image":""
    },
@@ -458,6 +447,83 @@
       "website":"https://www.agilefluency.org/",
       "tag":"敏捷度量",
       "tag_en":"AgileMeasurement",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"回顾会大全",
+      "name_en":"Ultimate Guide to Agile Retrospectives",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.retrium.com/ultimate-guide-to-agile-retrospectives/intro",
+      "tag":"敏捷回顾",
+      "tag_en":"Retrospectives",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"Retromat",
+      "name_en":"Retromat",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://retromat.org/",
+      "tag":"敏捷回顾",
+      "tag_en":"Retrospectives",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"有趣的回顾",
+      "name_en":"FunRetrospectives",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.funretrospectives.com/",
+      "tag":"敏捷回顾",
+      "tag_en":"Retrospectives",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"Retrospective Wiki",
+      "name_en":"",
+      "desc":"",
+      "desc_en":"",
+      "website":"http://retrospectivewiki.org/",
+      "tag":"敏捷回顾",
+      "tag_en":"Retrospectives",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"回顾工具箱",
+      "name_en":"HIToolbox",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://toolbox.hyperisland.com/",
+      "tag":"敏捷回顾",
+      "tag_en":"Retrospectives",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"团队健康检查",
+      "name_en":"Team health check",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://engineering.atspotify.com/2014/09/16/squad-health-check-model/",
+      "tag":"敏捷回顾",
+      "tag_en":"Retrospectives",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"游戏风暴",
+      "name_en":"GameStorming",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://gamestorming.com/",
+      "tag":"敏捷回顾",
+      "tag_en":"Retrospectives",
       "logo":"",
       "image":""
    },
@@ -682,6 +748,61 @@
       "image":""
    },
    {
+      "name":"Parabol",
+      "name_en":"",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.parabol.co/",
+      "tag":"工具",
+      "tag_en":"Tools",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"TeamRetro",
+      "name_en":"",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.teamretro.com/",
+      "tag":"工具",
+      "tag_en":"Tools",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"IdeaBoardz",
+      "name_en":"",
+      "desc":"",
+      "desc_en":"",
+      "website":"http://www.ideaboardz.com/",
+      "tag":"工具",
+      "tag_en":"Tools",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"EasyRetro",
+      "name_en":"",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://easyretro.io/",
+      "tag":"工具",
+      "tag_en":"Tools",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"Retrobot",
+      "name_en":"",
+      "desc":"",
+      "desc_en":"",
+      "website":"http://www.retrobotapp.com/",
+      "tag":"工具",
+      "tag_en":"Tools",
+      "logo":"",
+      "image":""
+   },
+   {
       "name":"InfoQ",
       "name_en":"InfoQ",
       "desc":"",
@@ -748,11 +869,11 @@
       "image":""
    },
    {
-      "name":"Crisp",
-      "name_en":"Crisp",
+      "name":"思特沃克",
+      "name_en":"ThoughtWorks",
       "desc":"",
       "desc_en":"",
-      "website":"https://blog.crisp.se/",
+      "website":"https://www.thoughtworks.com/",
       "tag":"咨询公司",
       "tag_en":"Company",
       "logo":"",
