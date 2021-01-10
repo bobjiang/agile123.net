@@ -35,12 +35,12 @@ const theme = createMuiTheme({
 
 const translation = {
   zh: {
-    subTitle: '敏捷学习资源大全',
+    subTitle: '敏捷开发 敏捷管理 学习资源大全',
     more: '一起发现更多资源',
     submit: '提　交',
   },
   en: {
-    subTitle: 'A Portal for awesome Agile learning resources',
+    subTitle: 'A Portal for awesome Agile software development and Agile management learning resources',
     more: 'Discover more resources',
     submit: 'Submit',
   }
