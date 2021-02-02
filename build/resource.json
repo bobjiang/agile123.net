@@ -66,6 +66,17 @@
       "image":""
    },
    {
+      "name":"软件匠艺",
+      "name_en":"Coding Style",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.codingstyle.cn/",
+      "tag":"社区",
+      "tag_en":"Community",
+      "logo":"",
+      "image":""
+   },
+   {
       "name":"破马张飞",
       "name_en":"Po Ma Zhang Fei",
       "desc":"",
@@ -851,7 +862,18 @@
       "name_en":"Bob Jiang",
       "desc":"",
       "desc_en":"",
-      "website":"https://bobjiang.com/",
+      "website":"https://www.bobjiang.com/",
+      "tag":"博客",
+      "tag_en":"Blog",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"小波老西",
+      "name_en":"Seaborn Lee",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://seabornlee.cn/",
       "tag":"博客",
       "tag_en":"Blog",
       "logo":"",
