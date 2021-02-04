@@ -154,6 +154,17 @@
       "image":""
    },
    {
+      "name":"敏捷开发社区",
+      "name_en":"",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.minjiekaifa.com/",
+      "tag":"敏捷开发社区",
+      "tag_en":"Community",
+      "logo":"",
+      "image":""
+   },
+   {
       "name":"Scrum",
       "name_en":"Scrum",
       "desc":"",
@@ -830,6 +841,17 @@
       "desc":"",
       "desc_en":"",
       "website":"http://www.retrobotapp.com/",
+      "tag":"工具",
+      "tag_en":"Tools",
+      "logo":"",
+      "image":""
+   },
+   {
+      "name":"禅道",
+      "name_en":"",
+      "desc":"",
+      "desc_en":"",
+      "website":"https://www.zentao.net/",
       "tag":"工具",
       "tag_en":"Tools",
       "logo":"",
